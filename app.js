@@ -53,4 +53,3 @@ document.getElementById("apply-btn").addEventListener("click", function () {
   promoInputText.value = "";
 });
 
-//hardwork is promo code
